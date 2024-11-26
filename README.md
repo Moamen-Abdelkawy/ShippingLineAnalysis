@@ -30,12 +30,11 @@ ShippingLineAnalysis/
 │   ├── trade_forecast.png
 │   └── profit_analysis.png
 ├── scripts/                        # Python scripts for core functionality
-│   ├── data_cleaning.py            # Handles raw data cleaning and preparation
-│   ├── exploratory_analysis.py     # Conducts exploratory data analysis
-│   ├── forecasting_models.py       # Implements predictive models for trade forecasting
-│   ├── profitability_metrics.py    # Simulates profits under varying shipping rates
-│   ├── visualization_tools.py      # Creates visual representations of the analysis
-│   └── main_pipeline.py            # Orchestrates the analysis workflow
+│   ├── data_generation.py          # Generates synthetic datasets for analysis
+│   ├── data_processing.py          # Cleans, processes, and integrates data
+│   ├── forecasting.py              # Implements predictive models for trade forecasting
+│   ├── visualization.py            # Generates visual representations of data and analysis
+│   └── main.py                     # Main script to execute the entire analysis workflow
 ├── notebooks/
 │   ├── shipping_line_analysis.ipynb # Full analysis in a Jupyter Notebook
 ├── reports/                        # Reports and findings
