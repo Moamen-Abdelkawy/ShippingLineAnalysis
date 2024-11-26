@@ -1,0 +1,6 @@
+Vessel Type,Capacity (Metric Tons),Operational Cost per Trip (USD),Suitable for Goods
+Container Ship,20000,50000,"Manufactured Goods, Machinery"
+Bulk Carrier,30000,60000,"Raw Materials, Others"
+Tanker,25000,70000,"Perishables, Liquid Cargo"
+General Cargo,15000,40000,"General Cargo, Machinery"
+Reefer,12000,45000,Perishables

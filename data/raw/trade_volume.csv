@@ -1,0 +1,631 @@
+Port,Good Category,Trade Volume (Metric Tons),Trade Year
+Alexandria,Raw Materials,7529.0,2003
+Alexandria,Manufactured Goods,8910.0,2003
+Alexandria,Perishables,5568.0,2003
+Alexandria,Machinery,9905.0,2003
+Alexandria,Others,3327.0,2003
+Damietta,Raw Materials,4626.0,2003
+Damietta,Manufactured Goods,4453.0,2003
+Damietta,Perishables,4674.0,2003
+Damietta,Machinery,5806.0,2003
+Damietta,Others,2283.0,2003
+Port Said,Raw Materials,8399.0,2003
+Port Said,Manufactured Goods,6773.0,2003
+Port Said,Perishables,9812.0,2003
+Port Said,Machinery,9652.0,2003
+Port Said,Others,550.0,2003
+Tripoli,Raw Materials,9322.0,2003
+Tripoli,Manufactured Goods,4519.0,2003
+Tripoli,Perishables,3754.0,2003
+Tripoli,Machinery,4471.0,2003
+Tripoli,Others,7290.0,2003
+Benghazi,Raw Materials,4507.0,2003
+Benghazi,Manufactured Goods,5589.0,2003
+Benghazi,Perishables,2943.0,2003
+Benghazi,Machinery,8806.0,2003
+Benghazi,Others,3510.0,2003
+Misurata,Raw Materials,3659.0,2003
+Misurata,Manufactured Goods,1472.0,2003
+Misurata,Perishables,9343.0,2003
+Misurata,Machinery,2589.0,2003
+Misurata,Others,785.0,2003
+Alexandria,Raw Materials,7925.0,2004
+Alexandria,Manufactured Goods,3980.0,2004
+Alexandria,Perishables,7650.0,2004
+Alexandria,Machinery,7226.0,2004
+Alexandria,Others,1717.0,2004
+Damietta,Raw Materials,3091.0,2004
+Damietta,Manufactured Goods,1582.0,2004
+Damietta,Perishables,3016.0,2004
+Damietta,Machinery,8646.0,2004
+Damietta,Others,5394.0,2004
+Port Said,Raw Materials,4029.0,2004
+Port Said,Manufactured Goods,3873.0,2004
+Port Said,Perishables,8660.0,2004
+Port Said,Machinery,5388.0,2004
+Port Said,Others,2424.0,2004
+Tripoli,Raw Materials,5944.0,2004
+Tripoli,Manufactured Goods,5554.0,2004
+Tripoli,Perishables,3356.0,2004
+Tripoli,Machinery,4772.0,2004
+Tripoli,Others,8222.0,2004
+Benghazi,Raw Materials,1862.0,2004
+Benghazi,Manufactured Goods,5709.0,2004
+Benghazi,Perishables,2397.0,2004
+Benghazi,Machinery,4985.0,2004
+Benghazi,Others,7839.0,2004
+Misurata,Raw Materials,4339.0,2004
+Misurata,Manufactured Goods,4306.0,2004
+Misurata,Perishables,9736.0,2004
+Misurata,Machinery,2466.0,2004
+Misurata,Others,7838.0,2004
+Alexandria,Raw Materials,1975.0,2005
+Alexandria,Manufactured Goods,4744.0,2005
+Alexandria,Perishables,2831.0,2005
+Alexandria,Machinery,8865.0,2005
+Alexandria,Others,2317.0,2005
+Damietta,Raw Materials,671.0,2005
+Damietta,Manufactured Goods,9240.0,2005
+Damietta,Perishables,5486.0,2005
+Damietta,Machinery,1644.0,2005
+Damietta,Others,6128.0,2005
+Port Said,Raw Materials,5174.0,2005
+Port Said,Manufactured Goods,3125.0,2005
+Port Said,Perishables,9630.0,2005
+Port Said,Machinery,8529.0,2005
+Port Said,Others,5703.0,2005
+Tripoli,Raw Materials,9525.0,2005
+Tripoli,Manufactured Goods,9306.0,2005
+Tripoli,Perishables,5468.0,2005
+Tripoli,Machinery,6874.0,2005
+Tripoli,Others,8259.0,2005
+Benghazi,Raw Materials,6374.0,2005
+Benghazi,Manufactured Goods,4924.0,2005
+Benghazi,Perishables,9325.0,2005
+Benghazi,Machinery,9916.0,2005
+Benghazi,Others,4428.0,2005
+Misurata,Raw Materials,2237.0,2005
+Misurata,Manufactured Goods,508.0,2005
+Misurata,Perishables,7610.0,2005
+Misurata,Machinery,3428.0,2005
+Misurata,Others,1029.0,2005
+Alexandria,Raw Materials,5749.0,2006
+Alexandria,Manufactured Goods,2723.0,2006
+Alexandria,Perishables,5412.0,2006
+Alexandria,Machinery,4623.0,2006
+Alexandria,Others,3437.0,2006
+Damietta,Raw Materials,2018.0,2006
+Damietta,Manufactured Goods,1080.0,2006
+Damietta,Perishables,9666.0,2006
+Damietta,Machinery,4224.0,2006
+Damietta,Others,3407.0,2006
+Port Said,Raw Materials,8025.0,2006
+Port Said,Manufactured Goods,5990.0,2006
+Port Said,Perishables,1290.0,2006
+Port Said,Machinery,7905.0,2006
+Port Said,Others,7704.0,2006
+Tripoli,Raw Materials,4265.0,2006
+Tripoli,Manufactured Goods,5569.0,2006
+Tripoli,Perishables,625.0,2006
+Tripoli,Machinery,6230.0,2006
+Tripoli,Others,6795.0,2006
+Benghazi,Raw Materials,9420.0,2006
+Benghazi,Manufactured Goods,9951.0,2006
+Benghazi,Perishables,7384.0,2006
+Benghazi,Machinery,6505.0,2006
+Benghazi,Others,8542.0,2006
+Misurata,Raw Materials,9109.0,2006
+Misurata,Manufactured Goods,944.0,2006
+Misurata,Perishables,8788.0,2006
+Misurata,Machinery,9633.0,2006
+Misurata,Others,2064.0,2006
+Alexandria,Raw Materials,1339.0,2007
+Alexandria,Manufactured Goods,5087.0,2007
+Alexandria,Perishables,6091.0,2007
+Alexandria,Machinery,1059.0,2007
+Alexandria,Others,3004.0,2007
+Damietta,Raw Materials,8745.0,2007
+Damietta,Manufactured Goods,9422.0,2007
+Damietta,Perishables,6014.0,2007
+Damietta,Machinery,9570.0,2007
+Damietta,Others,4718.0,2007
+Port Said,Raw Materials,6835.0,2007
+Port Said,Manufactured Goods,6430.0,2007
+Port Said,Perishables,6269.0,2007
+Port Said,Machinery,6847.0,2007
+Port Said,Others,8845.0,2007
+Tripoli,Raw Materials,2323.0,2007
+Tripoli,Manufactured Goods,6364.0,2007
+Tripoli,Perishables,2306.0,2007
+Tripoli,Machinery,5497.0,2007
+Tripoli,Others,5045.0,2007
+Benghazi,Raw Materials,2399.0,2007
+Benghazi,Manufactured Goods,608.0,2007
+Benghazi,Perishables,7329.0,2007
+Benghazi,Machinery,3853.0,2007
+Benghazi,Others,7892.0,2007
+Misurata,Raw Materials,9346.0,2007
+Misurata,Manufactured Goods,1760.0,2007
+Misurata,Perishables,8317.0,2007
+Misurata,Machinery,777.0,2007
+Misurata,Others,7791.0,2007
+Alexandria,Raw Materials,1255.0,2008
+Alexandria,Manufactured Goods,618.0,2008
+Alexandria,Perishables,8267.0,2008
+Alexandria,Machinery,6108.0,2008
+Alexandria,Others,9446.0,2008
+Damietta,Raw Materials,7637.0,2008
+Damietta,Manufactured Goods,1573.0,2008
+Damietta,Perishables,8179.0,2008
+Damietta,Machinery,5014.0,2008
+Damietta,Others,7878.0,2008
+Port Said,Raw Materials,3727.0,2008
+Port Said,Manufactured Goods,683.0,2008
+Port Said,Perishables,7920.0,2008
+Port Said,Machinery,1472.0,2008
+Port Said,Others,1476.0,2008
+Tripoli,Raw Materials,1372.0,2008
+Tripoli,Manufactured Goods,6604.0,2008
+Tripoli,Perishables,2977.0,2008
+Tripoli,Machinery,8030.0,2008
+Tripoli,Others,1882.0,2008
+Benghazi,Raw Materials,8285.0,2008
+Benghazi,Manufactured Goods,1436.0,2008
+Benghazi,Perishables,9197.0,2008
+Benghazi,Machinery,1419.0,2008
+Benghazi,Others,8746.0,2008
+Misurata,Raw Materials,6514.0,2008
+Misurata,Manufactured Goods,6185.0,2008
+Misurata,Perishables,6262.0,2008
+Misurata,Machinery,7105.0,2008
+Misurata,Others,5108.0,2008
+Alexandria,Raw Materials,1486.0,2009
+Alexandria,Manufactured Goods,4306.0,2009
+Alexandria,Perishables,9541.0,2009
+Alexandria,Machinery,3335.0,2009
+Alexandria,Others,3660.0,2009
+Damietta,Raw Materials,629.0,2009
+Damietta,Manufactured Goods,5124.0,2009
+Damietta,Perishables,2214.0,2009
+Damietta,Machinery,9895.0,2009
+Damietta,Others,8529.0,2009
+Port Said,Raw Materials,6646.0,2009
+Port Said,Manufactured Goods,5435.0,2009
+Port Said,Perishables,630.0,2009
+Port Said,Machinery,6302.0,2009
+Port Said,Others,4464.0,2009
+Tripoli,Raw Materials,4575.0,2009
+Tripoli,Manufactured Goods,4175.0,2009
+Tripoli,Perishables,7625.0,2009
+Tripoli,Machinery,5544.0,2009
+Tripoli,Others,9312.0,2009
+Benghazi,Raw Materials,6020.0,2009
+Benghazi,Manufactured Goods,5682.0,2009
+Benghazi,Perishables,8723.0,2009
+Benghazi,Machinery,4915.0,2009
+Benghazi,Others,552.0,2009
+Misurata,Raw Materials,6083.0,2009
+Misurata,Manufactured Goods,1274.0,2009
+Misurata,Perishables,8853.0,2009
+Misurata,Machinery,4428.0,2009
+Misurata,Others,8445.0,2009
+Alexandria,Raw Materials,3817.7999999999997,2010
+Alexandria,Manufactured Goods,6862.799999999999,2010
+Alexandria,Perishables,6183.799999999999,2010
+Alexandria,Machinery,3289.2999999999997,2010
+Alexandria,Others,6486.9,2010
+Damietta,Raw Materials,4085.2,2010
+Damietta,Manufactured Goods,893.1999999999999,2010
+Damietta,Perishables,1068.8999999999999,2010
+Damietta,Machinery,1631.6999999999998,2010
+Damietta,Others,4163.599999999999,2010
+Port Said,Raw Materials,6734.0,2010
+Port Said,Manufactured Goods,5191.9,2010
+Port Said,Perishables,5324.9,2010
+Port Said,Machinery,871.5,2010
+Port Said,Others,2821.7,2010
+Tripoli,Raw Materials,3224.8999999999996,2010
+Tripoli,Manufactured Goods,4057.8999999999996,2010
+Tripoli,Perishables,861.0,2010
+Tripoli,Machinery,3300.5,2010
+Tripoli,Others,3896.2,2010
+Benghazi,Raw Materials,1675.1,2010
+Benghazi,Manufactured Goods,4066.9999999999995,2010
+Benghazi,Perishables,6031.2,2010
+Benghazi,Machinery,6635.299999999999,2010
+Benghazi,Others,2661.3999999999996,2010
+Misurata,Raw Materials,461.99999999999994,2010
+Misurata,Manufactured Goods,5470.5,2010
+Misurata,Perishables,1599.5,2010
+Misurata,Machinery,5055.4,2010
+Misurata,Others,4615.099999999999,2010
+Alexandria,Raw Materials,6337.099999999999,2011
+Alexandria,Manufactured Goods,5287.799999999999,2011
+Alexandria,Perishables,2836.3999999999996,2011
+Alexandria,Machinery,1622.6,2011
+Alexandria,Others,6546.4,2011
+Damietta,Raw Materials,5110.7,2011
+Damietta,Manufactured Goods,2593.5,2011
+Damietta,Perishables,4681.599999999999,2011
+Damietta,Machinery,5056.799999999999,2011
+Damietta,Others,5328.4,2011
+Port Said,Raw Materials,4216.8,2011
+Port Said,Manufactured Goods,2982.7,2011
+Port Said,Perishables,4442.9,2011
+Port Said,Machinery,2430.3999999999996,2011
+Port Said,Others,3504.8999999999996,2011
+Tripoli,Raw Materials,1854.9999999999998,2011
+Tripoli,Manufactured Goods,4024.2999999999997,2011
+Tripoli,Perishables,5719.0,2011
+Tripoli,Machinery,5602.799999999999,2011
+Tripoli,Others,6142.5,2011
+Benghazi,Raw Materials,6411.299999999999,2011
+Benghazi,Manufactured Goods,1226.3999999999999,2011
+Benghazi,Perishables,6092.099999999999,2011
+Benghazi,Machinery,5289.9,2011
+Benghazi,Others,4083.7999999999997,2011
+Misurata,Raw Materials,6002.5,2011
+Misurata,Manufactured Goods,3901.1,2011
+Misurata,Perishables,3870.2999999999997,2011
+Misurata,Machinery,2589.2999999999997,2011
+Misurata,Others,3904.6,2011
+Alexandria,Raw Materials,468.99999999999994,2012
+Alexandria,Manufactured Goods,2138.5,2012
+Alexandria,Perishables,5305.299999999999,2012
+Alexandria,Machinery,5663.0,2012
+Alexandria,Others,2006.8999999999999,2012
+Damietta,Raw Materials,2942.7999999999997,2012
+Damietta,Manufactured Goods,4415.599999999999,2012
+Damietta,Perishables,1939.6999999999998,2012
+Damietta,Machinery,4315.5,2012
+Damietta,Others,4767.7,2012
+Port Said,Raw Materials,1521.8,2012
+Port Said,Manufactured Goods,5665.099999999999,2012
+Port Said,Perishables,5555.9,2012
+Port Said,Machinery,3342.5,2012
+Port Said,Others,4382.7,2012
+Tripoli,Raw Materials,2880.5,2012
+Tripoli,Manufactured Goods,2192.3999999999996,2012
+Tripoli,Perishables,1589.6999999999998,2012
+Tripoli,Machinery,951.3,2012
+Tripoli,Others,6448.4,2012
+Benghazi,Raw Materials,3301.8999999999996,2012
+Benghazi,Manufactured Goods,2128.0,2012
+Benghazi,Perishables,3490.2,2012
+Benghazi,Machinery,2016.6999999999998,2012
+Benghazi,Others,4309.2,2012
+Misurata,Raw Materials,6090.7,2012
+Misurata,Manufactured Goods,1644.3,2012
+Misurata,Perishables,4162.9,2012
+Misurata,Machinery,3366.2999999999997,2012
+Misurata,Others,2275.0,2012
+Alexandria,Raw Materials,2634.0,2013
+Alexandria,Manufactured Goods,6956.0,2013
+Alexandria,Perishables,4016.0,2013
+Alexandria,Machinery,4309.0,2013
+Alexandria,Others,929.0,2013
+Damietta,Raw Materials,4529.0,2013
+Damietta,Manufactured Goods,9038.0,2013
+Damietta,Perishables,2735.0,2013
+Damietta,Machinery,762.0,2013
+Damietta,Others,8254.0,2013
+Port Said,Raw Materials,9240.0,2013
+Port Said,Manufactured Goods,3420.0,2013
+Port Said,Perishables,3061.0,2013
+Port Said,Machinery,3364.0,2013
+Port Said,Others,4951.0,2013
+Tripoli,Raw Materials,7760.0,2013
+Tripoli,Manufactured Goods,9283.0,2013
+Tripoli,Perishables,714.0,2013
+Tripoli,Machinery,7022.0,2013
+Tripoli,Others,4956.0,2013
+Benghazi,Raw Materials,5273.0,2013
+Benghazi,Manufactured Goods,9452.0,2013
+Benghazi,Perishables,3064.0,2013
+Benghazi,Machinery,8753.0,2013
+Benghazi,Others,6916.0,2013
+Misurata,Raw Materials,7753.0,2013
+Misurata,Manufactured Goods,6529.0,2013
+Misurata,Perishables,7840.0,2013
+Misurata,Machinery,9708.0,2013
+Misurata,Others,2278.0,2013
+Alexandria,Raw Materials,5337.0,2014
+Alexandria,Manufactured Goods,671.0,2014
+Alexandria,Perishables,6641.0,2014
+Alexandria,Machinery,5053.0,2014
+Alexandria,Others,9578.0,2014
+Damietta,Raw Materials,1521.0,2014
+Damietta,Manufactured Goods,8740.0,2014
+Damietta,Perishables,8420.0,2014
+Damietta,Machinery,5860.0,2014
+Damietta,Others,9005.0,2014
+Port Said,Raw Materials,1811.0,2014
+Port Said,Manufactured Goods,8482.0,2014
+Port Said,Perishables,3278.0,2014
+Port Said,Machinery,2780.0,2014
+Port Said,Others,2007.0,2014
+Tripoli,Raw Materials,9832.0,2014
+Tripoli,Manufactured Goods,4703.0,2014
+Tripoli,Perishables,9001.0,2014
+Tripoli,Machinery,2879.0,2014
+Tripoli,Others,5046.0,2014
+Benghazi,Raw Materials,6040.0,2014
+Benghazi,Manufactured Goods,7108.0,2014
+Benghazi,Perishables,3151.0,2014
+Benghazi,Machinery,9440.0,2014
+Benghazi,Others,7780.0,2014
+Misurata,Raw Materials,8944.0,2014
+Misurata,Manufactured Goods,1788.0,2014
+Misurata,Perishables,3986.0,2014
+Misurata,Machinery,2575.0,2014
+Misurata,Others,9730.0,2014
+Alexandria,Raw Materials,890.0,2015
+Alexandria,Manufactured Goods,7563.0,2015
+Alexandria,Perishables,5254.0,2015
+Alexandria,Machinery,4963.0,2015
+Alexandria,Others,2340.0,2015
+Damietta,Raw Materials,3514.0,2015
+Damietta,Manufactured Goods,4764.0,2015
+Damietta,Perishables,5452.0,2015
+Damietta,Machinery,7162.0,2015
+Damietta,Others,8254.0,2015
+Port Said,Raw Materials,3342.0,2015
+Port Said,Manufactured Goods,9844.0,2015
+Port Said,Perishables,4807.0,2015
+Port Said,Machinery,4418.0,2015
+Port Said,Others,9311.0,2015
+Tripoli,Raw Materials,4231.0,2015
+Tripoli,Manufactured Goods,5319.0,2015
+Tripoli,Perishables,5302.0,2015
+Tripoli,Machinery,8383.0,2015
+Tripoli,Others,8603.0,2015
+Benghazi,Raw Materials,1673.0,2015
+Benghazi,Manufactured Goods,1810.0,2015
+Benghazi,Perishables,2978.0,2015
+Benghazi,Machinery,8136.0,2015
+Benghazi,Others,8287.0,2015
+Misurata,Raw Materials,2569.0,2015
+Misurata,Manufactured Goods,9849.0,2015
+Misurata,Perishables,7817.0,2015
+Misurata,Machinery,7335.0,2015
+Misurata,Others,5191.0,2015
+Alexandria,Raw Materials,8501.0,2016
+Alexandria,Manufactured Goods,8695.0,2016
+Alexandria,Perishables,2012.0,2016
+Alexandria,Machinery,6336.0,2016
+Alexandria,Others,1025.0,2016
+Damietta,Raw Materials,2686.0,2016
+Damietta,Manufactured Goods,5452.0,2016
+Damietta,Perishables,8362.0,2016
+Damietta,Machinery,4726.0,2016
+Damietta,Others,7124.0,2016
+Port Said,Raw Materials,3215.0,2016
+Port Said,Manufactured Goods,8123.0,2016
+Port Said,Perishables,987.0,2016
+Port Said,Machinery,2294.0,2016
+Port Said,Others,4142.0,2016
+Tripoli,Raw Materials,2575.0,2016
+Tripoli,Manufactured Goods,6520.0,2016
+Tripoli,Perishables,4905.0,2016
+Tripoli,Machinery,2954.0,2016
+Tripoli,Others,5012.0,2016
+Benghazi,Raw Materials,1281.0,2016
+Benghazi,Manufactured Goods,9091.0,2016
+Benghazi,Perishables,2021.0,2016
+Benghazi,Machinery,6463.0,2016
+Benghazi,Others,8779.0,2016
+Misurata,Raw Materials,976.0,2016
+Misurata,Manufactured Goods,8087.0,2016
+Misurata,Perishables,6307.0,2016
+Misurata,Machinery,5168.0,2016
+Misurata,Others,6286.0,2016
+Alexandria,Raw Materials,2213.0,2017
+Alexandria,Manufactured Goods,1214.0,2017
+Alexandria,Perishables,997.0,2017
+Alexandria,Machinery,9332.0,2017
+Alexandria,Others,7794.0,2017
+Damietta,Raw Materials,7060.0,2017
+Damietta,Manufactured Goods,8603.0,2017
+Damietta,Perishables,5391.0,2017
+Damietta,Machinery,8452.0,2017
+Damietta,Others,1226.0,2017
+Port Said,Raw Materials,3512.0,2017
+Port Said,Manufactured Goods,3456.0,2017
+Port Said,Perishables,7374.0,2017
+Port Said,Machinery,4388.0,2017
+Port Said,Others,2591.0,2017
+Tripoli,Raw Materials,5447.0,2017
+Tripoli,Manufactured Goods,3944.0,2017
+Tripoli,Perishables,4043.0,2017
+Tripoli,Machinery,1373.0,2017
+Tripoli,Others,9463.0,2017
+Benghazi,Raw Materials,9788.0,2017
+Benghazi,Manufactured Goods,1048.0,2017
+Benghazi,Perishables,1066.0,2017
+Benghazi,Machinery,6336.0,2017
+Benghazi,Others,3625.0,2017
+Misurata,Raw Materials,2094.0,2017
+Misurata,Manufactured Goods,2958.0,2017
+Misurata,Perishables,2849.0,2017
+Misurata,Machinery,8623.0,2017
+Misurata,Others,6327.0,2017
+Alexandria,Raw Materials,2738.0,2018
+Alexandria,Manufactured Goods,3951.0,2018
+Alexandria,Perishables,6157.0,2018
+Alexandria,Machinery,5546.0,2018
+Alexandria,Others,3277.0,2018
+Damietta,Raw Materials,2104.0,2018
+Damietta,Manufactured Goods,615.0,2018
+Damietta,Perishables,7565.0,2018
+Damietta,Machinery,5585.0,2018
+Damietta,Others,3752.0,2018
+Port Said,Raw Materials,4776.0,2018
+Port Said,Manufactured Goods,8037.0,2018
+Port Said,Perishables,8908.0,2018
+Port Said,Machinery,6951.0,2018
+Port Said,Others,7677.0,2018
+Tripoli,Raw Materials,4834.0,2018
+Tripoli,Manufactured Goods,1781.0,2018
+Tripoli,Perishables,5481.0,2018
+Tripoli,Machinery,521.0,2018
+Tripoli,Others,1889.0,2018
+Benghazi,Raw Materials,8885.0,2018
+Benghazi,Manufactured Goods,3642.0,2018
+Benghazi,Perishables,7152.0,2018
+Benghazi,Machinery,584.0,2018
+Benghazi,Others,4997.0,2018
+Misurata,Raw Materials,5317.0,2018
+Misurata,Manufactured Goods,1979.0,2018
+Misurata,Perishables,1409.0,2018
+Misurata,Machinery,1814.0,2018
+Misurata,Others,5812.0,2018
+Alexandria,Raw Materials,8716.0,2019
+Alexandria,Manufactured Goods,2762.0,2019
+Alexandria,Perishables,2841.0,2019
+Alexandria,Machinery,7471.0,2019
+Alexandria,Others,7278.0,2019
+Damietta,Raw Materials,9090.0,2019
+Damietta,Manufactured Goods,1946.0,2019
+Damietta,Perishables,6081.0,2019
+Damietta,Machinery,4287.0,2019
+Damietta,Others,7433.0,2019
+Port Said,Raw Materials,3605.0,2019
+Port Said,Manufactured Goods,4071.0,2019
+Port Said,Perishables,3430.0,2019
+Port Said,Machinery,1752.0,2019
+Port Said,Others,1970.0,2019
+Tripoli,Raw Materials,2672.0,2019
+Tripoli,Manufactured Goods,543.0,2019
+Tripoli,Perishables,8908.0,2019
+Tripoli,Machinery,2562.0,2019
+Tripoli,Others,9630.0,2019
+Benghazi,Raw Materials,4652.0,2019
+Benghazi,Manufactured Goods,2706.0,2019
+Benghazi,Perishables,9768.0,2019
+Benghazi,Machinery,7939.0,2019
+Benghazi,Others,2661.0,2019
+Misurata,Raw Materials,9688.0,2019
+Misurata,Manufactured Goods,6660.0,2019
+Misurata,Perishables,8216.0,2019
+Misurata,Machinery,7271.0,2019
+Misurata,Others,2914.0,2019
+Alexandria,Raw Materials,2716.0,2020
+Alexandria,Manufactured Goods,3329.5,2020
+Alexandria,Perishables,3838.0,2020
+Alexandria,Machinery,3779.5,2020
+Alexandria,Others,2156.5,2020
+Damietta,Raw Materials,3362.5,2020
+Damietta,Manufactured Goods,2771.5,2020
+Damietta,Perishables,2682.0,2020
+Damietta,Machinery,852.0,2020
+Damietta,Others,264.5,2020
+Port Said,Raw Materials,1914.0,2020
+Port Said,Manufactured Goods,4707.5,2020
+Port Said,Perishables,2457.0,2020
+Port Said,Machinery,3354.0,2020
+Port Said,Others,4180.5,2020
+Tripoli,Raw Materials,918.5,2020
+Tripoli,Manufactured Goods,1179.5,2020
+Tripoli,Perishables,2685.5,2020
+Tripoli,Machinery,2203.5,2020
+Tripoli,Others,2535.5,2020
+Benghazi,Raw Materials,2957.0,2020
+Benghazi,Manufactured Goods,3868.5,2020
+Benghazi,Perishables,1838.0,2020
+Benghazi,Machinery,717.0,2020
+Benghazi,Others,3202.5,2020
+Misurata,Raw Materials,3491.5,2020
+Misurata,Manufactured Goods,2148.5,2020
+Misurata,Perishables,3460.5,2020
+Misurata,Machinery,2925.0,2020
+Misurata,Others,700.5,2020
+Alexandria,Raw Materials,771.5,2021
+Alexandria,Manufactured Goods,2963.5,2021
+Alexandria,Perishables,1877.5,2021
+Alexandria,Machinery,1433.0,2021
+Alexandria,Others,1395.0,2021
+Damietta,Raw Materials,1731.5,2021
+Damietta,Manufactured Goods,4314.0,2021
+Damietta,Perishables,2848.5,2021
+Damietta,Machinery,4481.5,2021
+Damietta,Others,2524.0,2021
+Port Said,Raw Materials,2039.0,2021
+Port Said,Manufactured Goods,3106.5,2021
+Port Said,Perishables,956.5,2021
+Port Said,Machinery,2877.0,2021
+Port Said,Others,3674.5,2021
+Tripoli,Raw Materials,1886.5,2021
+Tripoli,Manufactured Goods,1527.0,2021
+Tripoli,Perishables,4939.0,2021
+Tripoli,Machinery,2395.0,2021
+Tripoli,Others,4280.0,2021
+Benghazi,Raw Materials,1248.5,2021
+Benghazi,Manufactured Goods,3500.5,2021
+Benghazi,Perishables,3034.5,2021
+Benghazi,Machinery,3603.5,2021
+Benghazi,Others,1166.0,2021
+Misurata,Raw Materials,3129.5,2021
+Misurata,Manufactured Goods,1499.5,2021
+Misurata,Perishables,4149.0,2021
+Misurata,Machinery,286.5,2021
+Misurata,Others,2143.0,2021
+Alexandria,Raw Materials,5728.8,2022
+Alexandria,Manufactured Goods,1812.0,2022
+Alexandria,Perishables,6038.400000000001,2022
+Alexandria,Machinery,7045.6,2022
+Alexandria,Others,5120.0,2022
+Damietta,Raw Materials,4201.6,2022
+Damietta,Manufactured Goods,3568.8,2022
+Damietta,Perishables,3361.6000000000004,2022
+Damietta,Machinery,4135.2,2022
+Damietta,Others,3910.4,2022
+Port Said,Raw Materials,7967.200000000001,2022
+Port Said,Manufactured Goods,2258.4,2022
+Port Said,Perishables,3813.6000000000004,2022
+Port Said,Machinery,7729.6,2022
+Port Said,Others,7728.0,2022
+Tripoli,Raw Materials,2504.8,2022
+Tripoli,Manufactured Goods,4124.8,2022
+Tripoli,Perishables,615.2,2022
+Tripoli,Machinery,1781.6000000000001,2022
+Tripoli,Others,4152.8,2022
+Benghazi,Raw Materials,5528.0,2022
+Benghazi,Manufactured Goods,3906.4,2022
+Benghazi,Perishables,6841.6,2022
+Benghazi,Machinery,6096.8,2022
+Benghazi,Others,2120.8,2022
+Misurata,Raw Materials,5529.6,2022
+Misurata,Manufactured Goods,7095.200000000001,2022
+Misurata,Perishables,7886.400000000001,2022
+Misurata,Machinery,4617.6,2022
+Misurata,Others,1624.8000000000002,2022
+Alexandria,Raw Materials,8162.0,2023
+Alexandria,Manufactured Goods,1070.0,2023
+Alexandria,Perishables,8519.0,2023
+Alexandria,Machinery,5852.0,2023
+Alexandria,Others,6169.0,2023
+Damietta,Raw Materials,7018.0,2023
+Damietta,Manufactured Goods,5529.0,2023
+Damietta,Perishables,8089.0,2023
+Damietta,Machinery,2219.0,2023
+Damietta,Others,622.0,2023
+Port Said,Raw Materials,3820.0,2023
+Port Said,Manufactured Goods,880.0,2023
+Port Said,Perishables,9986.0,2023
+Port Said,Machinery,9951.0,2023
+Port Said,Others,4466.0,2023
+Tripoli,Raw Materials,1064.0,2023
+Tripoli,Manufactured Goods,7407.0,2023
+Tripoli,Perishables,3497.0,2023
+Tripoli,Machinery,2591.0,2023
+Tripoli,Others,7251.0,2023
+Benghazi,Raw Materials,4775.0,2023
+Benghazi,Manufactured Goods,5448.0,2023
+Benghazi,Perishables,8844.0,2023
+Benghazi,Machinery,1527.0,2023
+Benghazi,Others,5130.0,2023
+Misurata,Raw Materials,1182.0,2023
+Misurata,Manufactured Goods,5365.0,2023
+Misurata,Perishables,7395.0,2023
+Misurata,Machinery,4068.0,2023
+Misurata,Others,7420.0,2023
